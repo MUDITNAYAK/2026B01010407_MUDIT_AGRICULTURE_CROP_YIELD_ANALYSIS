@@ -1,0 +1,4 @@
+Variable,Rainfall_mm,Fertilizer_kg_per_ha,Yield_per_Hectare
+Rainfall_mm,1.0,0.020647118429597124,-0.05209092575455212
+Fertilizer_kg_per_ha,0.020647118429597124,1.0,-0.03258449402628951
+Yield_per_Hectare,-0.05209092575455212,-0.03258449402628951,1.0

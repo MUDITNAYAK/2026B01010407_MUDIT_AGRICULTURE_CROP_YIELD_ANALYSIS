@@ -1,0 +1,7 @@
+Check,Result,Details
+Rows,710,All source rows retained
+Columns,11,Source columns in input CSV
+Missing Rainfall_mm,18,Median imputed: 1000.650 mm
+Missing Soil_pH,17,Median imputed: 6.390
+Duplicate Farm_Record_ID rows,20,"10 IDs repeat; flagged, not removed"
+Area_Hectares <= 0 or missing,0,Yield set missing for invalid area; no division by zero
